@@ -1743,18 +1743,18 @@ guide_panel_canvas = tk.Canvas(
     rings_content,
     highlightthickness=0
 )
-guide_panel_canvas.place(
-    x=0,
-    y=0,
-    relheight=1,
-    relwidth=1,
-)
-guide_panel.create_image(
-    0,
-    0,
-    image=guide_panel_photo,
-    anchor="ne"
-)
+#guide_panel_canvas.place(
+  #  x=0,
+  #  y=0,
+  #  relheight=1,
+ #   relwidth=1,
+#)
+#guide_panel_canvas.create_image(
+ #   0,
+  #  0,
+ #   image=guide_panel_photo,
+  #  anchor="ne"
+#)
 
 
 
