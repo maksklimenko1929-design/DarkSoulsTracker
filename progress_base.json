@@ -1,0 +1,43 @@
+{
+    "rings": {
+        "Ashen Estus Ring": false,
+        "Bloodbite Ring": true,
+        "Ring of Sacrifice": true,
+        "Estus Ring": true,
+        "Covetous Silver Serpent Ring": true,
+        "Life Ring": false,
+        "Magic Stoneplate Ring +2": false,
+        "Blue Tearstone Ring": true,
+        "Flynn's Ring": true,
+        "Chloranthy Ring": true,
+        "Covetous Gold Serpent Ring +2": false,
+        "Fire Clutch Ring": true,
+        "Pontiff's Right Eye": false,
+        "Pontiff's Left Eye": true,
+        "Saint's Ring": false,
+        "Farron Ring": false,
+        "Covetous Silver Serpent Ring +1": false,
+        "Great Swamp Ring": false,
+        "Hawk Ring": false,
+        "Sage Ring": false,
+        "Lingering Dragoncrest Ring": false,
+        "Aldrich's Sapphire": false,
+        "Sun Princess Ring": false,
+        "Covetous Gold Serpent Ring": false
+    },
+    "emotes": {
+        "Toast": false,
+        "Sleep": false,
+        "Legion Etiquette": false,
+        "By My Sword": false,
+        "Jump for Joy": true,
+        "Wave": true,
+        "Point Down": true,
+        "Point Forward": true,
+        "Patches Squat": false,
+        "Point Up": true,
+        "Joy": true,
+        "Bow": true,
+        "Rest": true
+    }
+}
